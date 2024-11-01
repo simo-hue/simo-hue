@@ -1,4 +1,4 @@
-👋 Hello! Here is Simone Mattioli
+## 👋 Hello! Here is Simone Mattioli
 
 Welcome to my world! I’m a Computer Science student at the University of Verona, where I delve into the fascinating intersection of technology and creativity. My passion for coding intertwines with my love for motors, photography, and video making, making each day a unique adventure.
 
