@@ -11,8 +11,8 @@ Visit My Website For More Info: https://simo-hue.github.io/
 Feel free to reach out and connect! Here are some links where you can follow my projects and adventures:
 
 - **[LinkedIn]()**: Discover my professional journey and connect with me.
-- **[Personal YouTube](www.youtube.com/@SimosDiary2003)**: Check out my projects, Life Thoughts, Travels and so much more.
-- **[Mountain fauna YouTube](www.youtube.com/@mountainfaunalover)**: Check out my projects and collaborations.
+- **[Personal YouTube](https://www.youtube.com/@SimosDiary2003)**: Check out my projects, Life Thoughts, Travels and so much more.
+- **[Mountain fauna YouTube](https://www.youtube.com/@mountainfaunalover)**: Check out my projects and collaborations.
 - **[Portfolio](https://simo-hue.github.io/)**: Explore my creativity through photography and video making.
 - **[Personal Instagram](https://www.instagram.com/simo___one/)**: Follow me to see the world through my lens.
 - **[Mountain fauna Instagram](https://www.instagram.com/mountainfaunalover/)**: Follow me here if you are instresed about mountains and wildlife vibes.
