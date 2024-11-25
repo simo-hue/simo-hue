@@ -2,6 +2,8 @@
 
 Welcome to my world! I’m a Computer Science student at the University of Verona, where I delve into the fascinating intersection of technology and creativity. My passion for coding intertwines with my love for motors, photography, and video making, making each day a unique adventure.
 
+I have an extreme passion for continuos learning and personal improvement, if you are intrested check out my personal website and discover more about me: https://simo-hue.github.io/
+
 🚀 About Me
 
 Visit My Website For More Info: https://simo-hue.github.io/
