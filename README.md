@@ -35,7 +35,7 @@ If you're curious, you can discover more about me here:
 
 Feel free to reach out and follow my work and passions:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simone%20Mattioli-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simone-mattioli-154b2a260/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simone%20Mattioli-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/simonemattioli2003)
 [![YouTube – Simo's Diary](https://img.shields.io/badge/YouTube-Simo's%20Diary-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SimosDiary2003)
 [![YouTube – Mountain Fauna](https://img.shields.io/badge/Mountain%20Fauna-YT-green?style=for-the-badge&logo=youtube)](https://www.youtube.com/@mountainfaunalover)
 [![Instagram Personal](https://img.shields.io/badge/@simo___one-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/simo___one/)
@@ -43,10 +43,17 @@ Feel free to reach out and follow my work and passions:
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Visualizations
 
-![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo-hue&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo-hue&layout=compact&theme=radical)
+<!-- Trofei -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=simo-hue&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simo-hue&theme=radical)](https://git.io/streak-stats)
+
+<!-- Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simo-hue&theme=radical)
+
 
 ---
 
@@ -54,8 +61,7 @@ Feel free to reach out and follow my work and passions:
 
 - 🚙 I explore remote trails with my **Land Rover Defender 90**
 - 📸 I film **wildlife in Trentino Alto-Adige** using high-end optics
-- 🦌 I collaborate with **Swarovski Optik** for digiscoping content
-- 🌍 I believe in **tech decentralization**: AI should be for everyone, not just big tech
+- 🦌 I collaborate with **Swarovski Optik**  & **OLLIN** for digiscoping content
 
 ---
 
