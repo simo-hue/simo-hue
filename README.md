@@ -48,15 +48,11 @@ Feel free to reach out and follow my work and passions:
 <!-- Trofei -->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=simo-hue&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simo-hue&theme=radical)](https://git.io/streak-stats)
-
-<!-- Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo-hue&layout=compact&theme=radical)
-
 <!-- Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simo-hue&theme=radical)
 
+<!-- Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simo-hue&theme=radical)](https://git.io/streak-stats)
 ---
 
 ## 💡 Fun Facts
