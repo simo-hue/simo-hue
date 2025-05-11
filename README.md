@@ -51,9 +51,11 @@ Feel free to reach out and follow my work and passions:
 <!-- Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simo-hue&theme=radical)](https://git.io/streak-stats)
 
+<!-- Stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo-hue&layout=compact&theme=radical)
+
 <!-- Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simo-hue&theme=radical)
-
 
 ---
 
