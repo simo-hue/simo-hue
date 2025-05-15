@@ -52,7 +52,7 @@ Feel free to reach out and follow my work and passions:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simo-hue&theme=radical)
 
 <!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simo-hue&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=simo-hue&theme=radical)](https://git.io/streak-stats)
 ---
 
 ## 💡 Fun Facts
