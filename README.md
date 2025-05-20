@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Simone Mattioli Banner](./banner.png)
 
-# 👋 Hello! I'm Simone Mattioli
+# 👋 Hello!
 
 🎓 Computer Science student at the **University of Verona**, passionate about the intersection of **technology**, **creativity**, and **real-world impact**.
 
@@ -57,7 +57,7 @@ Feel free to reach out and follow my work and passions:
 
 ## 💡 Fun Facts
 
-- 🚙 I explore remote trails with my **Land Rover Defender 90**
+- 🚙 I love **CARS**
 - 📸 I film **wildlife in Trentino Alto-Adige** using high-end optics
 - 🦌 I collaborate with **Swarovski Optik**  & **OLLIN** for digiscoping content
 
