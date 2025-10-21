@@ -9,7 +9,8 @@
   - pause: Pause duration in milliseconds (e.g., 1000 = 1 second)
   - duration: Typing speed in milliseconds
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2F81F7&width=435&lines=Hello,+I'm+Simone" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=30&pause=1000&color=F74D02&width=435&lines=Hi%2C+I'm+Mattioli+Simone" alt="Typing SVG" /></a>
 
 🎓 Computer Science student at the **University of Verona**, passionate about the intersection of **technology**, **creativity**, and **real-world impact**.
 
