@@ -10,7 +10,7 @@
   - duration: Typing speed in milliseconds
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=50&pause=1000&color=F74D02&width=435&lines=Hi%2C+I'm+Mattioli+Simone" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=35&pause=1000&color=F74D02&width=435&lines=Hi%2C+I'm+Mattioli+Simone" alt="Typing SVG" /></a>
 
 🎓 Computer Science student at the **University of Verona**, passionate about the intersection of **technology**, **creativity**, and **real-world impact**.
 
