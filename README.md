@@ -9,7 +9,6 @@
   <h3>🎓 Computer Science student at the <b>University of Verona</b></h3>
   <p>
     Passionate about the intersection of <b>technology</b>, <b>creativity</b>, and <b>real-world impact</b>.<br>
-    From coding deep-learning models to filming wildlife in the Alps, I love learning, creating, and sharing stories — both in code and in pixels.
   </p>
 
   <br/>
