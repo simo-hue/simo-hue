@@ -25,10 +25,24 @@
 
 <div align="center">
   <h2>🚀 GitHub Stats</h2>
+
+  <img src="https://komarev.com/ghpvc/?username=simo-hue&color=F76400&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  
+  <br/><br/>
+
   <p>
     <img src="https://streak-stats.demolab.com?user=simo-hue&theme=transparent&hide_border=true&ring=F76400&fire=F76400&currStreakLabel=F76400&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" height="150"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simo-hue&theme=transparent&exclude=&" alt="Top Languages" height="150"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simo-hue&theme=transparent" alt="Top Languages" height="150"/>
   </p>
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=simo-hue&theme=onestar&no-frame=true&column=4&margin-w=10" alt="GitHub Trophies"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simo-hue&theme=react-dark&color=F76400&line=F76400&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+
 </div>
 
 ---
