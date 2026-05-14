@@ -27,7 +27,7 @@
   <h2>🚀 GitHub Stats</h2>
   <p>
     <img src="https://streak-stats.demolab.com?user=simo-hue&theme=transparent&hide_border=true&ring=F76400&fire=F76400&currStreakLabel=F76400&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo-hue&layout=compact&theme=transparent&hide_border=true&title_color=F76400&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages" height="150"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simo-hue&theme=transparent&exclude=&" alt="Top Languages" height="150"/>
   </p>
 </div>
 
