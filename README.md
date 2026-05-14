@@ -26,8 +26,8 @@
 <div align="center">
   <h2>🚀 GitHub Stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=simo-hue&show_icons=true&theme=transparent&hide_border=true&title_color=F76400&text_color=FFFFFF&icon_color=F76400" alt="Simone's GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo-hue&layout=compact&theme=transparent&hide_border=true&title_color=F76400&text_color=FFFFFF&icon_color=F76400" alt="Top Languages" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=simo-hue&show_icons=true&theme=transparent&hide_border=true&title_color=F76400&text_color=FFFFFF&icon_color=F76400&cache_seconds=1800&rank_icon=github" alt="Simone's GitHub Stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo-hue&layout=compact&theme=transparent&hide_border=true&title_color=F76400&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" height="150"/>
   </p>
 </div>
 
